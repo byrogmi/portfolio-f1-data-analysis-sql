@@ -25,7 +25,21 @@ Die Berechnung des Alters der Sieger zum Zeitpunkt des Rennens mittels "TIMESTAM
 
 Identifizierung von Fahrern, die für die meisten unterschiedlichen Teams gewonnen haben mit "(COUNT(DISTINCT))"
 
-Verknüpfung von vier Tabellen "(results, races, drivers, circuits)" um die Siege geografisch zuzuordnen. 
+Verknüpfung von vier Tabellen "(results, races, drivers, circuits)" um die Siege geografisch zuzuordnen.
+
+### Visual Insights
+
+#### 1. Oldest Winner
+![Oldest Winners](visuals/OldestWinner.png)
+
+#### 2. Team with most Different Winners
+![MostDifferentWinners](visuals/MostDifferentWinners.png)
+
+#### 3. Team with most Race Wins
+![TeamMostRaceWins](visuals/TeamMostRaceWins.png)
+
+#### 4. Driver with Wins for most Different Teams
+![WinsForDifferentConstructor](visuals/WinsForDifferentConstructor.png)
 
 ## Technical Skills
 SQL: MySQL
