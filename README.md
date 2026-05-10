@@ -60,3 +60,13 @@ Youtube: https://www.youtube.com/watch?v=PSNXoAs2FtQ
 This project was inspired by the SQL tutorial from FreeCodeCamp and Alex the Analyst. I used the fundamentals presented there to develop my own, more complex analyses and logic (such as the age calculations).
 
 Dieses Projekt wurde inspiriert durch das SQL-Tutorial von freecodecamp & Alex the Analyst. Ich habe die dort gezeigten Grundlagen genutzt, um eigene, komplexere Analysen und Logiken (wie die Altersberechnungen) zu entwickeln.
+
+### About this Project
+This project is part of my first steps into data analysis. I started expanding my IT skills on my own after work a few years ago, and made the switch to data analysis during my trip through New Zealand. I quickly realized that I enjoy working with data far more than web development projects.
+
+I now live in Melbourne and am completing this portfolio to demonstrate how I transform data into meaningful insights.
+
+### Über dieses Projekt
+Dieses Projekt ist Teil meines Einstiegs in die Datenanalyse. Ich habe schon vor einigen Jahren begonnen meine IT-Kenntnisse privat nach der Arbeit zu verbessern und habe während meiner Reise durch Neuseeland den Shift zur Datenanalyse begonnen. Ich habe schnell gemerkt, dass mir die Arbeit mit Daten weit mehr Spass macht als die Projekte im Bereich Web Development. 
+
+Inzwischen lebe ich in Melbourne und vervollständige dieses Portfolio, um zu zeigen, wie ich Daten zu aussagekräftigen Erkenntisse verwandle.
